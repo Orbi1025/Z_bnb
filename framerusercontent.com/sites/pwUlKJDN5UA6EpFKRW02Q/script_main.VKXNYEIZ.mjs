@@ -1258,7 +1258,7 @@ var Ct = {
                                                         MKPg9WbcL: "Chart",
                                                         QUXmHzKkq: !1,
                                                         variant: "u9cHE4zsd",
-                                                        VZYEYY3gb: "https://dexscreener.com/bsc/0x25C16BEe07b03D28811a7C4cC28dfAadDcc3D939",
+                                                        VZYEYY3gb: "https://dexscreener.com/bsc/0xcomingsoon",
                                                         width: "100%"
                                                     })
                                                 })
@@ -1342,7 +1342,7 @@ var Ct = {
                                                             }
                                                         }, l, d),
                                                         children: e(G, {
-                                                            gR9_gy1KR: "https://x.com/cute_Nailong",
+                                                            gR9_gy1KR: "https://x.com/Nailong_dragon",
                                                             height: "100%",
                                                             id: "lO6ZWnw17",
                                                             layoutId: "lO6ZWnw17",
@@ -1887,7 +1887,7 @@ var Jt = {
                                                 rotate: 5
                                             },
                                             children: e(G, {
-                                                gR9_gy1KR: "https://x.com/cute_Nailong",
+                                                gR9_gy1KR: "https://x.com/Nailong_dragon",
                                                 height: "100%",
                                                 id: "d8siCRjXy",
                                                 layoutId: "d8siCRjXy",
@@ -1913,7 +1913,7 @@ var Jt = {
                                             MKPg9WbcL: "Buy now",
                                             QUXmHzKkq: !1,
                                             variant: "u9cHE4zsd",
-                                            VZYEYY3gb: "https://pancakeswap.finance/swap?outputCurrency=0x25C16BEe07b03D28811a7C4cC28dfAadDcc3D939",
+                                            VZYEYY3gb: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                                             width: "100%"
                                         })
                                     })
