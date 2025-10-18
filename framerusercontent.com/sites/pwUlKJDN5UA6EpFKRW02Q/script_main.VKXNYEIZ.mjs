@@ -1258,7 +1258,7 @@ var Ct = {
                                                         MKPg9WbcL: "Chart",
                                                         QUXmHzKkq: !1,
                                                         variant: "u9cHE4zsd",
-                                                        VZYEYY3gb: "https://dexscreener.com/bsc/0xcomingsoon",
+                                                        VZYEYY3gb: "https://dexscreener.com/bsc/0xd88ec5216e1fabf4ec0aa5a2c971e6c289722e53",
                                                         width: "100%"
                                                     })
                                                 })
@@ -1913,7 +1913,7 @@ var Jt = {
                                             MKPg9WbcL: "Buy now",
                                             QUXmHzKkq: !1,
                                             variant: "u9cHE4zsd",
-                                            VZYEYY3gb: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                                            VZYEYY3gb: "https://pancakeswap.finance/swap?outputCurrency=0xd88ec5216e1fabf4ec0aa5a2c971e6c289722e53",
                                             width: "100%"
                                         })
                                     })
