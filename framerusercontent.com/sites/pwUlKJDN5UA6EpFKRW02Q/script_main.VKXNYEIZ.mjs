@@ -1258,7 +1258,7 @@ var Ct = {
                                                         MKPg9WbcL: "Chart",
                                                         QUXmHzKkq: !1,
                                                         variant: "u9cHE4zsd",
-                                                        VZYEYY3gb: "https://dexscreener.com/bsc/0xd88ec5216e1fabf4ec0aa5a2c971e6c289722e53",
+                                                        VZYEYY3gb: "https://www.dextools.io/app/en/bnb/pair-explorer/0xd88ec5216e1fabf4ec0aa5a2c971e6c289722e53",
                                                         width: "100%"
                                                     })
                                                 })
