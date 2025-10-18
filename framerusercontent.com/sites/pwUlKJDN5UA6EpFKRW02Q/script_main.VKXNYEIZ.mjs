@@ -1299,7 +1299,7 @@ var Ct = {
                                                             }
                                                         }, l, d),
                                                         children: e(G, {
-                                                            gR9_gy1KR: "t.me/cuteNailong",
+                                                            gR9_gy1KR: "t.me/Nailong_dragon",
                                                             height: "100%",
                                                             id: "cXRtqffuS",
                                                             layoutId: "cXRtqffuS",
@@ -1865,7 +1865,7 @@ var Jt = {
                                             rendersWithMotion: !0,
                                             scopeId: "xvq9ojUUg",
                                             children: e(G, {
-                                                gR9_gy1KR: "t.me/cuteNailong",
+                                                gR9_gy1KR: "t.me/Nailong_dragon",
                                                 height: "100%",
                                                 id: "NkIrdbuDE",
                                                 layoutId: "NkIrdbuDE",
