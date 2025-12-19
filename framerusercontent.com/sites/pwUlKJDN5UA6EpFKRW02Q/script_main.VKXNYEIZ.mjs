@@ -1207,7 +1207,7 @@ var Ct = {
                                                         style: {
                                                             "--framer-text-alignment": "center"
                                                         },
-                                                        children: "Join us as we grow, build, and take $奶龙 beyond the moon."
+                                                        children: "Join us as we grow, build, and take $NAILONG beyond the moon."
                                                     })
                                                 }),
                                                 className: "framer-1adt9ib",
@@ -1258,7 +1258,7 @@ var Ct = {
                                                         MKPg9WbcL: "Chart",
                                                         QUXmHzKkq: !1,
                                                         variant: "u9cHE4zsd",
-                                                        VZYEYY3gb: "https://www.dextools.io/app/en/bnb/pair-explorer/0xd88ec5216e1fabf4ec0aa5a2c971e6c289722e53",
+                                                        VZYEYY3gb: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
                                                         width: "100%"
                                                     })
                                                 })
@@ -1299,7 +1299,7 @@ var Ct = {
                                                             }
                                                         }, l, d),
                                                         children: e(G, {
-                                                            gR9_gy1KR: "t.me/Nailong_dragon",
+                                                            gR9_gy1KR: "t.me/Nailong_entry",
                                                             height: "100%",
                                                             id: "cXRtqffuS",
                                                             layoutId: "cXRtqffuS",
@@ -1342,7 +1342,7 @@ var Ct = {
                                                             }
                                                         }, l, d),
                                                         children: e(G, {
-                                                            gR9_gy1KR: "https://x.com/Nailong_dragon",
+                                                            gR9_gy1KR: "https://x.com/Nailong_x",
                                                             height: "100%",
                                                             id: "lO6ZWnw17",
                                                             layoutId: "lO6ZWnw17",
@@ -1865,7 +1865,7 @@ var Jt = {
                                             rendersWithMotion: !0,
                                             scopeId: "xvq9ojUUg",
                                             children: e(G, {
-                                                gR9_gy1KR: "t.me/Nailong_dragon",
+                                                gR9_gy1KR: "t.me/Nailong_entry",
                                                 height: "100%",
                                                 id: "NkIrdbuDE",
                                                 layoutId: "NkIrdbuDE",
@@ -1887,7 +1887,7 @@ var Jt = {
                                                 rotate: 5
                                             },
                                             children: e(G, {
-                                                gR9_gy1KR: "https://x.com/Nailong_dragon",
+                                                gR9_gy1KR: "https://x.com/Nailong_x",
                                                 height: "100%",
                                                 id: "d8siCRjXy",
                                                 layoutId: "d8siCRjXy",
@@ -1913,7 +1913,7 @@ var Jt = {
                                             MKPg9WbcL: "Buy now",
                                             QUXmHzKkq: !1,
                                             variant: "u9cHE4zsd",
-                                            VZYEYY3gb: "https://pancakeswap.finance/swap?outputCurrency=0xd88ec5216e1fabf4ec0aa5a2c971e6c289722e53",
+                                            VZYEYY3gb: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                                             width: "100%"
                                         })
                                     })
