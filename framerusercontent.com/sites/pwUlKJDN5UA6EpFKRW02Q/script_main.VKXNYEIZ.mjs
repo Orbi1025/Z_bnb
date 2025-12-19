@@ -1458,7 +1458,7 @@ var Ct = {
                                         children: e(s.p, {
                                             className: "framer-styles-preset-1gou2ux",
                                             "data-styles-preset": "m8DU6sDyG",
-                                            children: "\xA9 奶龙 Token - 2025"
+                                            children: "\xA9 NAILONG Token - 2025"
                                         })
                                     }),
                                     className: "framer-nngp5w",
@@ -1479,7 +1479,7 @@ var Ct = {
                                                     style: {
                                                         "--framer-text-alignment": "center"
                                                     },
-                                                    children: "\xA9 奶龙 Token - 2025"
+                                                    children: "\xA9 NAILONG Token - 2025"
                                                 })
                                             })
                                         },
@@ -1492,7 +1492,7 @@ var Ct = {
                                                     style: {
                                                         "--framer-text-alignment": "center"
                                                     },
-                                                    children: "\xA9 奶龙 Token - 2025"
+                                                    children: "\xA9 NAILONG Token - 2025"
                                                 })
                                             })
                                         }
