@@ -1258,7 +1258,7 @@ var Ct = {
                                                         MKPg9WbcL: "Chart",
                                                         QUXmHzKkq: !1,
                                                         variant: "u9cHE4zsd",
-                                                        VZYEYY3gb: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
+                                                        VZYEYY3gb: "https://www.dextools.io/app/en/bnb/pair-explorer/0xb9764af685108e263c937b48b0446cfd4c61c37a",
                                                         width: "100%"
                                                     })
                                                 })
@@ -1913,7 +1913,7 @@ var Jt = {
                                             MKPg9WbcL: "Buy now",
                                             QUXmHzKkq: !1,
                                             variant: "u9cHE4zsd",
-                                            VZYEYY3gb: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                            VZYEYY3gb: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xb9764af685108e263c937b48b0446cfd4c61c37a",
                                             width: "100%"
                                         })
                                     })
